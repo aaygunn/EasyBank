@@ -2,6 +2,8 @@
 
 Bu proje HTML ve SASS teknolojileri kullanarak tasarlanmıştır. SCSS ile CSS kodlarının daha yönetilebilr hale getirilmesi amaçlanmıştır. Ayrıca responsive yapıda ve her ekran türüne uygundur.
 
+Demo için [tıklayınız](https://aaygunn.github.io/EasyBank/)
+
 <h2> Kullanılan Teknolojiler </h2>
 
 <ul>
